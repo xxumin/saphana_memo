@@ -1,1 +1,1 @@
-unload mytable;
+UNLOAD MYTABLE;
